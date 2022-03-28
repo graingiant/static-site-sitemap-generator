@@ -1,14 +1,15 @@
 # personal-sitemap-generator
 
-A Clojure library designed to ... well, that part is up to you.
+A sitemap generator CLI for my personal site [alexcaza.com](https://alexcaza.com).
+My personal site is built using a hacky home-grown static site generator using bash scripts and php.
 
 ## Usage
 
-FIXME
+`generate-sitemap --path=<path_to_root_static_directory>`
 
 ## License
 
-Copyright © 2022 FIXME
+Copyright © 2022 Alex Caza (alexcaza.com)
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
