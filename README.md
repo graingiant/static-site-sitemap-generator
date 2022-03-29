@@ -7,7 +7,11 @@ My personal site is built using a hacky home-grown static site generator using b
 
 **Requires Java to be installed on the system the CLI is run**
 
-`generate-sitemap --path=<path_to_root_static_directory>`
+```
+generate-sitemap --path=<path_to_root_static_directory> \
+                  --url="https://example.com/" \
+                  [--root-file==<name_of_root_file_to_serve>]
+```
 
 ## License
 
