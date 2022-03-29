@@ -5,6 +5,8 @@ My personal site is built using a hacky home-grown static site generator using b
 
 ## Usage
 
+**Requires Java to be installed on the system the CLI is run**
+
 `generate-sitemap --path=<path_to_root_static_directory>`
 
 ## License
